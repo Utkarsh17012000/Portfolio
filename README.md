@@ -9,3 +9,5 @@ To make use of static files,
 2. You need to run: "python manage.py collectstatic"(without inverted commas) in the cmd.
 
 Note: Better to run this project in virtual environment.
+ 
+ New changes have been made.
